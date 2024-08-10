@@ -75,49 +75,49 @@
     "plates": {
       "popular": [
         {
-          "imageSrc": "/images/menu/popular/popular1.jpg",
+          "imageSrc": "./images/menu/popular/popular1.jpg",
           "title": "Classic Spaghetti Carbonara",
           "description": "A traditional Italian favorite with creamy sauce, pancetta, and Parmesan cheese.",
           "price": 150
         },
         {
-          "imageSrc": "/images/menu/popular/popular2.jpg",
+          "imageSrc": "./images/menu/popular/popular2.jpg",
           "title": "Rich Beef Lasagna",
           "description": "Layers of pasta with a rich beef ragù, béchamel sauce, and melted mozzarella.",
           "price": 150
         },
         {
-          "imageSrc": "/images/menu/popular/popular3.jpg",
+          "imageSrc": "./images/menu/popular/popular3.jpg",
           "title": "Creamy Pesto Penne",
           "description": "Penne pasta tossed in a creamy basil pesto sauce with sun-dried tomatoes and pine nuts.",
           "price": 180
         },
         {
-          "imageSrc": "/images/menu/popular/popular4.jpg",
+          "imageSrc": "./images/menu/popular/popular4.jpg",
           "title": "Truffle Mushroom Fettuccine",
           "description": "Fettuccine served with a luxurious truffle cream sauce and sautéed wild mushrooms.",
           "price": 200
         },
         {
-          "imageSrc": "/images/menu/popular/popular5.jpg",
+          "imageSrc": "./images/menu/popular/popular5.jpg",
           "title": "Classic Baked Ziti",
           "description": "Baked ziti with marinara sauce, ricotta, and a blend of Italian cheeses.",
           "price": 160
         },
         {
-          "imageSrc": "/images/menu/popular/popular6.jpg",
+          "imageSrc": "./images/menu/popular/popular6.jpg",
           "title": "Signature Lobster Ravioli",
           "description": "House-made ravioli stuffed with lobster and served in a light tomato cream sauce.",
           "price": 175
         },
         {
-          "imageSrc": "/images/menu/popular/popular7.jpg",
+          "imageSrc": "./images/menu/popular/popular7.jpg",
           "title": "Elegant Shrimp Scampi",
           "description": "Shrimp sautéed in a garlic, white wine, and lemon sauce, served over linguine.",
           "price": 190
         },
         {
-          "imageSrc": "/images/menu/popular/popular8.jpg",
+          "imageSrc": "./images/menu/popular/popular8.jpg",
           "title": "Exquisite Lobster Mac & Cheese",
           "description": "A luxurious twist on classic mac & cheese with tender lobster and a blend of gourmet cheeses.",
           "price": 220
@@ -125,49 +125,49 @@
       ],
       "special": [
         {
-          "imageSrc": "/images/menu/specials/special1.jpg",
+          "imageSrc": "./images/menu/specials/special1.jpg",
           "title": "Artisan Cliche Delight",
           "description": "Artisan Cliche Delight, crafted with fresh, locally sourced ingredients.",
           "price": 165
         },
         {
-          "imageSrc": "/images/menu/specials/special2.jpg",
+          "imageSrc": "./images/menu/specials/special2.jpg",
           "title": "Hearty Cliche Stew",
           "description": "Hearty Cliche Stew, a comforting dish perfect for any occasion.",
           "price": 170
         },
         {
-          "imageSrc": "/images/menu/specials/special3.jpg",
+          "imageSrc": "./images/menu/specials/special3.jpg",
           "title": "Modern Cliche Fusion",
           "description": "Modern Cliche Fusion, a unique blend of global flavors.",
           "price": 185
         },
         {
-          "imageSrc": "/images/menu/specials/special4.jpg",
+          "imageSrc": "./images/menu/specials/special4.jpg",
           "title": "Savory Cliche Bites",
           "description": "Savory Cliche Bites, a selection of our chefs favorite appetizers.",
           "price": 140
         },
         {
-          "imageSrc": "/images/menu/specials/special5.jpg",
+          "imageSrc": "./images/menu/specials/special5.jpg",
           "title": "Traditional Cliche Feast",
           "description": "Traditional Cliche Feast, a hearty meal with a rich history.",
           "price": 210
         },
         {
-          "imageSrc": "/images/menu/specials/special6.jpg",
+          "imageSrc": "./images/menu/specials/special6.jpg",
           "title": "Signature Cliche Roast",
           "description": "Signature Cliche Roast, featuring a perfectly cooked meat dish.",
           "price": 195
         },
         {
-          "imageSrc": "/images/menu/specials/special7.jpg",
+          "imageSrc": "./images/menu/specials/special7.jpg",
           "title": "Sumptuous Cliche Plate",
           "description": "Sumptuous Cliche Plate, a decadent dish that’s both rich and flavorful.",
           "price": 205
         },
         {
-          "imageSrc": "/images/menu/specials/special1.jpg",
+          "imageSrc": "./images/menu/specials/special1.jpg",
           "title": "Ultimate Cliche Experience",
           "description": "Ultimate Cliche Experience, a luxurious meal designed for the ultimate dining experience.",
           "price": 250
@@ -175,43 +175,43 @@
       ],
       "lovely": [
         {
-          "imageSrc": "/images/menu/loved/loved1.jpg",
+          "imageSrc": "./images/menu/loved/loved1.jpg",
           "title": "Authentic Cliche Forage",
           "description": "Authentic Cliche Forage",
           "price": 150
         },
         {
-          "imageSrc": "/images/menu/loved/loved2.jpg",
+          "imageSrc": "./images/menu/loved/loved2.jpg",
           "title": "Authentic Cliche Forage",
           "description": "Authentic Cliche Forage",
           "price": 150
         },
         {
-          "imageSrc": "/images/menu/loved/loved3.jpg",
+          "imageSrc": "./images/menu/loved/loved3.jpg",
           "title": "Delicious Cliche Dish",
           "description": "Delicious Cliche Dish with a side of seasonal vegetables.",
           "price": 180
         },
         {
-          "imageSrc": "/images/menu/loved/loved4.jpg",
+          "imageSrc": "./images/menu/loved/loved4.jpg",
           "title": "Gourmet Cliche Special",
           "description": "Gourmet Cliche Special, prepared with premium ingredients.",
           "price": 200
         },
         {
-          "imageSrc": "/images/menu/loved/loved5.jpg",
+          "imageSrc": "./images/menu/loved/loved5.jpg",
           "title": "Classic Cliche Meal",
           "description": "Classic Cliche Meal, a traditional favorite with a modern twist.",
           "price": 160
         },
         {
-          "imageSrc": "/images/menu/loved/loved6.jpg",
+          "imageSrc": "./images/menu/loved/loved6.jpg",
           "title": "Signature Cliche Plate",
           "description": "Signature Cliche Plate, featuring our chef's special recipe.",
           "price": 175
         },
         {
-          "imageSrc": "/images/menu/loved/loved7.jpg",
+          "imageSrc": "./images/menu/loved/loved7.jpg",
           "title": "Elegant Cliche Creation",
           "description": "Elegant Cliche Creation, an exquisite blend of flavors.",
           "price": 190
