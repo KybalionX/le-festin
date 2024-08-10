@@ -98,7 +98,7 @@ function CenterMode() {
               <p className="leading-relaxed mb-6 text-lg">
                 {testimonial.description}
               </p>
-              <a className="inline-flex items-center">
+              <div className="inline-flex items-center">
                 <img
                   alt="testimonial"
                   src={testimonial.userImage}
@@ -109,7 +109,7 @@ function CenterMode() {
                     {testimonial.name}
                   </span>
                 </span>
-              </a>
+              </div>
             </div>
           ))}
         </Flicking>
