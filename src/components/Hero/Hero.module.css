@@ -1,0 +1,18 @@
+.heroContainer {
+  background: linear-gradient(rgba(15, 23, 43, 0.8), rgba(15, 23, 43, 0.8)),
+    url(/images/hero-bg.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.plateImage {
+  animation: spin 20s linear infinite;
+}
+
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
