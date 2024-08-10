@@ -5,7 +5,7 @@ function Copyright() {
         <p className="mt-4 text-lg text-gray-400 sm:ml-6 sm:mt-0">
           Made with ❤️ by
           <a
-            href="www.linkedin.com/in/nicolás-eduardo-flórez-acosta-85a84222b"
+            href="https://www.linkedin.com/in/nicolás-eduardo-flórez-acosta-85a84222b"
             className="ml-1 text-primaryLight font-bold"
             target="_blank"
           >
