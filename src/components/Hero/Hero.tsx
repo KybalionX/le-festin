@@ -54,7 +54,7 @@ function Hero() {
           </div>
           <img
             id="plateImage"
-            src="./images/plate-1.png"
+            src="./images/plate-1.webp"
             alt="plate-1"
             className={clsx(
               'h-[28rem]',

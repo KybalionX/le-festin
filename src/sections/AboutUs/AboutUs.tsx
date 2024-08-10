@@ -6,30 +6,30 @@ function GridGallery() {
     <div className="flex flex-wrap md:basis-9/12">
       <div className="w-1/2 p-1 md:p-2">
         <img
-          alt="gallery"
+          alt="gallery-image-1"
           className="block h-full w-full object-cover object-center"
-          src="https://static.dezeen.com/uploads/2023/12/anfibio-bacana-studio-restaurant-lisbon-portugal-interiors_dezeen_2364_col_7-600x600.jpg"
+          src="./images/gallery/1.webp"
         />
       </div>
       <div className="w-1/2 self-end p-1 md:p-2">
         <img
-          alt="gallery"
+          alt="gallery-image-2"
           className="h-10/12 block w-10/12 object-cover object-center"
-          src="https://bordeaux.intercontinental.com/wp-content/uploads/sites/4/2023/10/InterContinental-Bordeaux-Le-Grand-Hotel-Produit-Menu-du-marche-600x600.jpg"
+          src="./images/gallery/2.webp"
         />
       </div>
       <div className="w-1/2 p-1 md:p-2">
         <img
-          alt="gallery"
+          alt="gallery-image-3"
           className="h-10/12 float-right block w-10/12 object-cover object-center"
-          src="https://p.turbosquid.com/ts-thumb/Pz/12zkw5/0YtOLG9M/thumb/jpg/1542267924/600x600/fit_q87/1a19a373c700bc54f4fab7e32c7c35be27209e64/thumb.jpg"
+          src="./images/gallery/3.webp"
         />
       </div>
       <div className="w-1/2 p-1 md:p-2">
         <img
-          alt="gallery"
+          alt="gallery-image-4"
           className="block h-full w-full object-cover object-center"
-          src="https://d33hx0a45ryfj1.cloudfront.net/transform/ea9d7c5b-01e1-497f-a57d-02396ecb3f1b/skylon-interior?io=transform:fill,width:600,height:600"
+          src="./images/gallery/4.webp"
         />
       </div>
     </div>

@@ -75,49 +75,49 @@
     "plates": {
       "popular": [
         {
-          "imageSrc": "./images/menu/popular/popular1.jpg",
+          "imageSrc": "./images/menu/popular/popular1.webp",
           "title": "Espagueti Carbonara Clásico",
           "description": "Un favorito italiano tradicional con salsa cremosa, panceta y queso parmesano.",
           "price": 150
         },
         {
-          "imageSrc": "./images/menu/popular/popular2.jpg",
+          "imageSrc": "./images/menu/popular/popular2.webp",
           "title": "Lasaña de Carne Rica",
           "description": "Capas de pasta con un rico ragú de carne, salsa bechamel y mozzarella derretida.",
           "price": 150
         },
         {
-          "imageSrc": "./images/menu/popular/popular3.jpg",
+          "imageSrc": "./images/menu/popular/popular3.webp",
           "title": "Penne con Pesto Cremoso",
           "description": "Pasta penne mezclada con una salsa cremosa de pesto de albahaca, tomates secos y piñones.",
           "price": 180
         },
         {
-          "imageSrc": "./images/menu/popular/popular4.jpg",
+          "imageSrc": "./images/menu/popular/popular4.webp",
           "title": "Fettuccine con Trufa y Champiñones",
           "description": "Fettuccine servido con una lujosa salsa de crema de trufa y champiñones salvajes salteados.",
           "price": 200
         },
         {
-          "imageSrc": "./images/menu/popular/popular5.jpg",
+          "imageSrc": "./images/menu/popular/popular5.webp",
           "title": "Ziti al Horno Clásico",
           "description": "Ziti al horno con salsa marinara, ricotta y una mezcla de quesos italianos.",
           "price": 160
         },
         {
-          "imageSrc": "./images/menu/popular/popular6.jpg",
+          "imageSrc": "./images/menu/popular/popular6.webp",
           "title": "Ravioli de Langosta a la Firma",
           "description": "Ravioli casero relleno de langosta y servido en una ligera salsa de crema de tomate.",
           "price": 175
         },
         {
-          "imageSrc": "./images/menu/popular/popular7.jpg",
+          "imageSrc": "./images/menu/popular/popular7.webp",
           "title": "Scampi de Camarones Elegante",
           "description": "Camarones salteados en una salsa de ajo, vino blanco y limón, servido sobre linguini.",
           "price": 190
         },
         {
-          "imageSrc": "./images/menu/popular/popular8.jpg",
+          "imageSrc": "./images/menu/popular/popular8.webp",
           "title": "Mac & Cheese de Langosta Exquisito",
           "description": "Un giro lujoso al mac & cheese clásico con langosta tierna y una mezcla de quesos gourmet.",
           "price": 220
@@ -125,49 +125,49 @@
       ],
       "special": [
         {
-          "imageSrc": "./images/menu/specials/special1.jpg",
+          "imageSrc": "./images/menu/specials/special1.webp",
           "title": "Delicia Cliché Artesanal",
           "description": "Delicia Cliché Artesanal, elaborada con ingredientes frescos y de origen local.",
           "price": 165
         },
         {
-          "imageSrc": "./images/menu/specials/special2.jpg",
+          "imageSrc": "./images/menu/specials/special2.webp",
           "title": "Estofado Cliché Sustancioso",
           "description": "Estofado Cliché Sustancioso, un plato reconfortante perfecto para cualquier ocasión.",
           "price": 170
         },
         {
-          "imageSrc": "./images/menu/specials/special3.jpg",
+          "imageSrc": "./images/menu/specials/special3.webp",
           "title": "Fusión Cliché Moderna",
           "description": "Fusión Cliché Moderna, una mezcla única de sabores globales.",
           "price": 185
         },
         {
-          "imageSrc": "./images/menu/specials/special4.jpg",
+          "imageSrc": "./images/menu/specials/special4.webp",
           "title": "Bocadillos Cliché Sabrosos",
           "description": "Bocadillos Cliché Sabrosos, una selección de los aperitivos favoritos de nuestros chefs.",
           "price": 140
         },
         {
-          "imageSrc": "./images/menu/specials/special5.jpg",
+          "imageSrc": "./images/menu/specials/special5.webp",
           "title": "Festín Cliché Tradicional",
           "description": "Festín Cliché Tradicional, una comida sustanciosa con una rica historia.",
           "price": 210
         },
         {
-          "imageSrc": "./images/menu/specials/special6.jpg",
+          "imageSrc": "./images/menu/specials/special6.webp",
           "title": "Asado Cliché a la Firma",
           "description": "Asado Cliché a la Firma, con un plato de carne perfectamente cocido.",
           "price": 195
         },
         {
-          "imageSrc": "./images/menu/specials/special7.jpg",
+          "imageSrc": "./images/menu/specials/special7.webp",
           "title": "Plato Cliché Exquisito",
           "description": "Plato Cliché Exquisito, un plato decadente que es tanto rico como sabroso.",
           "price": 205
         },
         {
-          "imageSrc": "./images/menu/specials/special1.jpg",
+          "imageSrc": "./images/menu/specials/special8.webp",
           "title": "Experiencia Cliché Suprema",
           "description": "Experiencia Cliché Suprema, una comida lujosa diseñada para la experiencia culinaria definitiva.",
           "price": 250
@@ -175,43 +175,43 @@
       ],
       "lovely": [
         {
-          "imageSrc": "./images/menu/loved/loved1.jpg",
+          "imageSrc": "./images/menu/loved/loved1.webp",
           "title": "Forraje Cliché Auténtico",
           "description": "Forraje Cliché Auténtico",
           "price": 150
         },
         {
-          "imageSrc": "./images/menu/loved/loved2.jpg",
+          "imageSrc": "./images/menu/loved/loved2.webp",
           "title": "Forraje Cliché Auténtico",
           "description": "Forraje Cliché Auténtico",
           "price": 150
         },
         {
-          "imageSrc": "./images/menu/loved/loved3.jpg",
+          "imageSrc": "./images/menu/loved/loved3.webp",
           "title": "Plato Cliché Delicioso",
           "description": "Plato Cliché Delicioso con una guarnición de verduras de temporada.",
           "price": 180
         },
         {
-          "imageSrc": "./images/menu/loved/loved4.jpg",
+          "imageSrc": "./images/menu/loved/loved4.webp",
           "title": "Especial Cliché Gourmet",
           "description": "Especial Cliché Gourmet, preparado con ingredientes premium.",
           "price": 200
         },
         {
-          "imageSrc": "./images/menu/loved/loved5.jpg",
+          "imageSrc": "./images/menu/loved/loved5.webp",
           "title": "Comida Cliché Clásica",
           "description": "Comida Cliché Clásica, un favorito tradicional con un giro moderno.",
           "price": 160
         },
         {
-          "imageSrc": "./images/menu/loved/loved6.jpg",
+          "imageSrc": "./images/menu/loved/loved6.webp",
           "title": "Plato Cliché a la Firma",
           "description": "Plato Cliché a la Firma, con la receta especial de nuestro chef.",
           "price": 175
         },
         {
-          "imageSrc": "./images/menu/loved/loved7.jpg",
+          "imageSrc": "./images/menu/loved/loved7.webp",
           "title": "Creación Cliché Elegante",
           "description": "Creación Cliché Elegante, una mezcla exquisita de sabores.",
           "price": 190

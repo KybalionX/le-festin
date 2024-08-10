@@ -12,7 +12,7 @@ function Reservation() {
           data-aos-offset="300"
         >
           <img
-            src="https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg?cs=srgb&dl=pexels-valeriya-1484516.jpg&fm=jpg"
+            src="./images/reservation-bg.webp"
             className="object-cover"
           />
         </div>
