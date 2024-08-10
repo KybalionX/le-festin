@@ -54,7 +54,7 @@ function NavBar() {
           'py-4',
         )}
       >
-        <img src="/images/le-festin-logo.png" className="h-12" />
+        <img src="./images/le-festin-logo.png" className="h-12" />
         <button
           data-collapse-toggle="navbar-default"
           type="button"
