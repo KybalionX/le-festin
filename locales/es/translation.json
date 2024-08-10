@@ -1,0 +1,272 @@
+{
+  "navigation": {
+    "tabs": [
+      {
+        "label": "Servicios",
+        "href": "#services"
+      },
+      {
+        "label": "Sobre Nosotros",
+        "href": "#about-us"
+      },
+      {
+        "label": "Menú",
+        "href": "#food-menu"
+      },
+      {
+        "label": "Reservación",
+        "href": "#reservation"
+      },
+      {
+        "label": "Nuestro equipo",
+        "href": "#team"
+      },
+      {
+        "label": "Opiniones",
+        "href": "#testimonial"
+      }
+    ]
+  },
+  "reserveHere": "Reserva aquí",
+  "hero": {
+    "title": "Descubre el auténtico sabor de LeFestin!",
+    "subtitle": "Explora nuestro menú, conoce nuestras ofertas y no dudes en hacer tu reserva. ¡Tu próxima experiencia gastronómica está a solo un clic de distancia!"
+  },
+  "services": [
+    {
+      "title": "Los mejores chefs",
+      "subtitle": "Nuestros platos están elaborados por los chefs más talentosos del país"
+    },
+    {
+      "title": "Platos de calidad",
+      "subtitle": "Garantizamos la calidad de nuestros platos con rigurosos controles"
+    },
+    {
+      "title": "Pedidos Online",
+      "subtitle": "Disfruta de nuestros mejores platos en la comodidad de tu hogar"
+    },
+    {
+      "title": "Servicio 24/7",
+      "subtitle": "Estamos disponibles las 24 horas del día, los 7 días de la semana para que disfrutes de nuestros platos cuando quieras"
+    }
+  ],
+  "aboutUs": {
+    "label": "Sobre Nosotros",
+    "title": "Bienvenido a LeFestin",
+    "description": "En LeFestin, nos enorgullece ofrecerte una experiencia gastronómica excepcional. Nuestro equipo de chefs expertos utiliza ingredientes frescos y técnicas culinarias innovadoras para crear platos que te sorprenderán. Desde la primera hasta la última bocanada, cada detalle está diseñado para deleitarte. Ven y conoce el verdadero sabor de nuestra cocina."
+  },
+  "menu": {
+    "label": "Nuestro menú",
+    "title": "Platos más aclamados",
+    "tabs": {
+      "popular": {
+        "title": "Populares",
+        "subtitle": "Desayunos"
+      },
+      "special": {
+        "title": "Especiales",
+        "subtitle": "Nuevos"
+      },
+      "lovely": {
+        "title": "Amados",
+        "subtitle": "Cena"
+      }
+    },
+    "plates": {
+      "popular": [
+        {
+          "imageSrc": "/images/menu/popular/popular1.jpg",
+          "title": "Espagueti Carbonara Clásico",
+          "description": "Un favorito italiano tradicional con salsa cremosa, panceta y queso parmesano.",
+          "price": 150
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular2.jpg",
+          "title": "Lasaña de Carne Rica",
+          "description": "Capas de pasta con un rico ragú de carne, salsa bechamel y mozzarella derretida.",
+          "price": 150
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular3.jpg",
+          "title": "Penne con Pesto Cremoso",
+          "description": "Pasta penne mezclada con una salsa cremosa de pesto de albahaca, tomates secos y piñones.",
+          "price": 180
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular4.jpg",
+          "title": "Fettuccine con Trufa y Champiñones",
+          "description": "Fettuccine servido con una lujosa salsa de crema de trufa y champiñones salvajes salteados.",
+          "price": 200
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular5.jpg",
+          "title": "Ziti al Horno Clásico",
+          "description": "Ziti al horno con salsa marinara, ricotta y una mezcla de quesos italianos.",
+          "price": 160
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular6.jpg",
+          "title": "Ravioli de Langosta a la Firma",
+          "description": "Ravioli casero relleno de langosta y servido en una ligera salsa de crema de tomate.",
+          "price": 175
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular7.jpg",
+          "title": "Scampi de Camarones Elegante",
+          "description": "Camarones salteados en una salsa de ajo, vino blanco y limón, servido sobre linguini.",
+          "price": 190
+        },
+        {
+          "imageSrc": "/images/menu/popular/popular8.jpg",
+          "title": "Mac & Cheese de Langosta Exquisito",
+          "description": "Un giro lujoso al mac & cheese clásico con langosta tierna y una mezcla de quesos gourmet.",
+          "price": 220
+        }
+      ],
+      "special": [
+        {
+          "imageSrc": "/images/menu/specials/special1.jpg",
+          "title": "Delicia Cliché Artesanal",
+          "description": "Delicia Cliché Artesanal, elaborada con ingredientes frescos y de origen local.",
+          "price": 165
+        },
+        {
+          "imageSrc": "/images/menu/specials/special2.jpg",
+          "title": "Estofado Cliché Sustancioso",
+          "description": "Estofado Cliché Sustancioso, un plato reconfortante perfecto para cualquier ocasión.",
+          "price": 170
+        },
+        {
+          "imageSrc": "/images/menu/specials/special3.jpg",
+          "title": "Fusión Cliché Moderna",
+          "description": "Fusión Cliché Moderna, una mezcla única de sabores globales.",
+          "price": 185
+        },
+        {
+          "imageSrc": "/images/menu/specials/special4.jpg",
+          "title": "Bocadillos Cliché Sabrosos",
+          "description": "Bocadillos Cliché Sabrosos, una selección de los aperitivos favoritos de nuestros chefs.",
+          "price": 140
+        },
+        {
+          "imageSrc": "/images/menu/specials/special5.jpg",
+          "title": "Festín Cliché Tradicional",
+          "description": "Festín Cliché Tradicional, una comida sustanciosa con una rica historia.",
+          "price": 210
+        },
+        {
+          "imageSrc": "/images/menu/specials/special6.jpg",
+          "title": "Asado Cliché a la Firma",
+          "description": "Asado Cliché a la Firma, con un plato de carne perfectamente cocido.",
+          "price": 195
+        },
+        {
+          "imageSrc": "/images/menu/specials/special7.jpg",
+          "title": "Plato Cliché Exquisito",
+          "description": "Plato Cliché Exquisito, un plato decadente que es tanto rico como sabroso.",
+          "price": 205
+        },
+        {
+          "imageSrc": "/images/menu/specials/special1.jpg",
+          "title": "Experiencia Cliché Suprema",
+          "description": "Experiencia Cliché Suprema, una comida lujosa diseñada para la experiencia culinaria definitiva.",
+          "price": 250
+        }
+      ],
+      "lovely": [
+        {
+          "imageSrc": "/images/menu/loved/loved1.jpg",
+          "title": "Forraje Cliché Auténtico",
+          "description": "Forraje Cliché Auténtico",
+          "price": 150
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved2.jpg",
+          "title": "Forraje Cliché Auténtico",
+          "description": "Forraje Cliché Auténtico",
+          "price": 150
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved3.jpg",
+          "title": "Plato Cliché Delicioso",
+          "description": "Plato Cliché Delicioso con una guarnición de verduras de temporada.",
+          "price": 180
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved4.jpg",
+          "title": "Especial Cliché Gourmet",
+          "description": "Especial Cliché Gourmet, preparado con ingredientes premium.",
+          "price": 200
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved5.jpg",
+          "title": "Comida Cliché Clásica",
+          "description": "Comida Cliché Clásica, un favorito tradicional con un giro moderno.",
+          "price": 160
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved6.jpg",
+          "title": "Plato Cliché a la Firma",
+          "description": "Plato Cliché a la Firma, con la receta especial de nuestro chef.",
+          "price": 175
+        },
+        {
+          "imageSrc": "/images/menu/loved/loved7.jpg",
+          "title": "Creación Cliché Elegante",
+          "description": "Creación Cliché Elegante, una mezcla exquisita de sabores.",
+          "price": 190
+        }
+      ]
+    }
+  },
+  "reservation": {
+    "label": "Reservación",
+    "title": "Reserva una mesa en línea!",
+    "inputs": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje"
+    }
+  },
+  "team": {
+    "label": "Nuestro equipo",
+    "title": "Nuestros mejores chefs",
+    "description": "Conoce al talentoso equipo que hace posible cada plato en LeFestin. Nuestros chefs combinan experiencia, pasión y creatividad para ofrecerte una experiencia culinaria inigualable.",
+    "designations": {
+      "principalChef": "Chef Maestro",
+      "mainChef": "Chef Principal",
+      "beginnerChef": "Chef Aprendiz",
+      "anotherChef": "Chef Adicional"
+    }
+  },
+  "testimonials": {
+    "title": "Opiniones",
+    "description": "Lo que dicen nuestros clientes!",
+    "elements": [
+      {
+        "clientName": "Manuel",
+        "description": "La comida en LeFestin es increíble. Cada plato está lleno de sabor y la presentación es impecable. ¡Definitivamente volveré!"
+      },
+      {
+        "clientName": "Federico",
+        "description": "Una experiencia gastronómica excepcional. El servicio es excelente y los platos son auténticamente deliciosos. ¡Altamente recomendado!"
+      },
+      {
+        "clientName": "Andrés",
+        "description": "Me encantó la variedad del menú y la calidad de los ingredientes. Todo estaba preparado a la perfección. ¡Un lugar para recordar!"
+      },
+      {
+        "clientName": "Antonio",
+        "description": "El ambiente de LeFestin es muy acogedor y la comida es sublime. Cada visita es una nueva aventura culinaria."
+      },
+      {
+        "clientName": "Nicolás",
+        "description": "Un lugar fantástico para disfrutar de una comida excepcional. Los platos son creativos y llenos de sabor. ¡Un verdadero festín para los sentidos!"
+      },
+      {
+        "clientName": "Joe",
+        "description": "Excelente comida y servicio. La atención al detalle y la calidad de cada plato son notables. Sin duda, es uno de mis restaurantes favoritos."
+      }
+    ]
+  }
+}
