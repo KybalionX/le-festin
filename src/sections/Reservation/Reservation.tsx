@@ -12,6 +12,7 @@ function Reservation() {
           data-aos-offset="300"
         >
           <img
+            alt='reservation-image'
             src="./images/reservation-bg.webp"
             className="object-cover"
           />
@@ -28,7 +29,7 @@ function Reservation() {
             {t('reservation.title')}
           </p>
           <div className="relative mb-4 mt-3">
-            <label className="text-sm leading-7 text-gray-600 dark:text-gray-300">
+            <label htmlFor='name' className="text-sm leading-7 text-gray-600 dark:text-gray-300">
               {t('reservation.inputs.name')}
             </label>
             <input
@@ -39,7 +40,7 @@ function Reservation() {
             />
           </div>
           <div className="relative mb-4">
-            <label className="text-sm leading-7 text-gray-600 dark:text-gray-300">
+            <label htmlFor='email' className="text-sm leading-7 text-gray-600 dark:text-gray-300">
               {t('reservation.inputs.email')}
             </label>
             <input
@@ -50,7 +51,7 @@ function Reservation() {
             />
           </div>
           <div className="relative mb-4">
-            <label className="text-sm leading-7 text-gray-600 dark:text-gray-300">
+            <label htmlFor='message' className="text-sm leading-7 text-gray-600 dark:text-gray-300">
               {t('reservation.inputs.message')}
             </label>
             <textarea

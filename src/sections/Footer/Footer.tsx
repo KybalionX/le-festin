@@ -69,23 +69,23 @@ function Copyright() {
 function FooterColumn(props: { title: string; links: string[] }) {
   return (
     <div className="w-full px-4 md:w-1/2 lg:w-1/4 ">
-      <h2 className="mb-3 font-pacifico text-2xl font-medium tracking-widest text-primary">
+      <h2 className="mb-3 font-pacifico text-2xl font-medium tracking-widest text-primaryLight">
         {props.title}
       </h2>
-      <nav className="mb-10 list-none">
+      <menu className="mb-10 list-none">
         {props.links.map((link, i) => (
           <li key={i}>
             <a className="text-white">{link}</a>
           </li>
         ))}
-      </nav>
+      </menu>
     </div>
   );
 }
 
 function Footer() {
   return (
-    <footer className="body-font border-t-4 border-t-primaryLight bg-gray-900 text-gray-400">
+    <footer className="body-font border-t-4 border-t-primary bg-gray-900 text-gray-400">
       <div className="container mx-auto px-5 py-20">
         <div className="order-first flex flex-wrap text-left">
           <FooterColumn

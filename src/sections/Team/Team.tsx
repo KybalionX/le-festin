@@ -55,6 +55,7 @@ function Team() {
             className="flex w-full flex-col items-center rounded-xl py-12 text-center transition-all duration-300 ease-in-out sm:w-1/3 md:w-1/3 lg:w-1/4 xl:w-1/5 bg-gray-100 hover:bg-gray-200 dark:bg-slate-800 hover:dark:bg-slate-700"
           >
             <img
+              alt={`team-member-${i+1}-image`}
               src={member.picture}
               className="h-40 w-40 rounded-full bg-indigo-100 object-cover md:h-52 md:w-52"
             />
